@@ -1,0 +1,53 @@
+Swoobat @ Salac Berry
+Ability: Simple
+EVs: 4 HP / 252 SAtk / 252 Spd
+Timid Nature
+- Substitute
+- Calm Mind
+- Stored Power
+- Heat Wave
+
+Mr. Mime @ Leftovers
+Ability: Soundproof
+EVs: 252 HP / 4 SDef / 252 Spd
+Timid Nature
+- Baton Pass
+- Taunt
+- Light Screen
+- Reflect
+
+Ariados @ Leftovers
+Ability: Insomnia
+EVs: 248 HP / 8 Def / 252 Spd
+Jolly Nature
+- Baton Pass
+- Spider Web
+- Agility
+- Bug Bite
+
+Kingdra @ Scope Lens
+Ability: Sniper
+EVs: 4 HP / 252 SAtk / 252 Spd
+Timid Nature
+- Focus Energy
+- Surf
+- Draco Meteor
+- Substitute
+
+Drifblim @ Leftovers
+Ability: Aftermath
+EVs: 4 Def / 252 SDef / 252 Spd
+Timid Nature
+- Baton Pass
+- Substitute
+- Calm Mind
+- Shadow Ball
+
+Aggron @ Leftovers
+Ability: Rock Head
+EVs: 252 HP / 252 Atk / 4 SDef
+Adamant Nature
+- Autotomize
+- Head Smash
+- Earthquake
+- Iron Head

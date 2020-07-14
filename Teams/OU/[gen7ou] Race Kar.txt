@@ -1,0 +1,60 @@
+=== [gen8ou] some team ===
+
+Mew @ Red Card  
+Ability: Synchronize  
+EVs: 252 HP / 4 Atk / 252 Spe  
+Jolly Nature  
+- Taunt  
+- Stealth Rock  
+- Spikes  
+- Flare Blitz  
+
+Rotom-Wash @ Leftovers  
+Ability: Levitate  
+EVs: 248 HP / 44 SpA / 216 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Volt Switch  
+- Hydro Pump  
+- Defog  
+- Will-O-Wisp  
+
+Aegislash @ Air Balloon  
+Ability: Stance Change  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Adamant Nature  
+- Swords Dance  
+- Shadow Sneak  
+- Iron Head  
+- Close Combat  
+
+Quagsire @ Leftovers  
+Ability: Unaware  
+EVs: 252 HP / 252 Def / 4 SpD  
+Relaxed Nature  
+- Scald  
+- Recover  
+- Toxic  
+- Earthquake  
+
+Kyurem @ Choice Specs  
+Ability: Pressure  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Ice Beam  
+- Draco Meteor  
+- Earth Power  
+- Freeze-Dry  
+
+Clefable @ Life Orb  
+Ability: Magic Guard  
+EVs: 252 HP / 252 Def / 4 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Moonblast  
+- Flamethrower  
+- Soft-Boiled  
+- Calm Mind  
+
+
