@@ -1,0 +1,54 @@
+Heracross @ Heracronite
+Ability: Moxie
+EVs: 252 Atk / 252 HP / 4 SDef
+Adamant Nature
+- Megahorn
+- Close Combat
+- Stone Edge
+- Night Slash
+
+Blaziken @ Leftovers
+Ability: Speed Boost
+EVs: 252 Spd / 248 HP / 8 Atk
+Jolly Nature
+- Swords Dance
+- Substitute
+- Baton Pass
+- High Jump Kick
+
+Talonflame @ Flying Gem
+Ability: Gale Wings
+EVs: 252 Spd / 252 Atk / 4 HP
+Jolly Nature
+- Acrobatics
+- Flare Blitz
+- U-turn
+- Toxic
+
+Ferrothorn @ Rocky Helmet
+Ability: Iron Barbs
+EVs: 252 Def / 252 HP / 4 Atk
+Impish Nature
+- Leech Seed
+- Power Whip
+- Stealth Rock
+- Thunder Wave
+
+Excadrill @ Leftovers
+Ability: Mold Breaker
+EVs: 252 Atk / 252 HP / 4 SDef
+Adamant Nature
+- Earthquake
+- Rapid Spin
+- Rock Slide
+- Swords Dance
+
+Aegislash @ Leftovers
+Ability: Stance Change
+EVs: 252 Atk / 252 HP / 4 SDef
+Adamant Nature
+- Sacred Sword
+- King's Shield
+- Swords Dance
+- Shadow Sneak
+

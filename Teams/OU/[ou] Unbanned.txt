@@ -1,0 +1,56 @@
+Deoxys @ Focus Sash
+Ability: Pressure
+Shiny: Yes
+EVs: 252 Spd / 4 Atk / 252 SAtk
+Hasty Nature
+- Psycho Boost
+- Ice Beam
+- Superpower
+- ExtremeSpeed
+
+Excadrill @ Leftovers
+Ability: Mold Breaker
+EVs: 252 Atk / 252 HP / 4 SDef
+Adamant Nature
+- Earthquake
+- Rapid Spin
+- Swords Dance
+- Iron Head
+
+Genesect @ Expert Belt
+Ability: Download
+EVs: 252 Spd / 252 SAtk / 4 Atk
+Hasty Nature
+- Energy Ball
+- Ice Beam
+- Thunderbolt
+- Flamethrower
+
+Blaziken @ Blazikenite
+Ability: Speed Boost
+EVs: 252 Spd / 252 Atk / 4 SDef
+Adamant Nature
+- High Jump Kick
+- Blaze Kick
+- Night Slash
+- Thunder Punch
+
+Landorus (M) @ Leftovers
+Ability: Sand Force
+EVs: 252 Spd / 252 Atk / 4 SAtk
+Naive Nature
+- Swords Dance
+- Earthquake
+- Stone Edge
+- Grass Knot
+
+Manaphy @ Leftovers
+Ability: Hydration
+EVs: 252 HP / 252 Spd / 4 SAtk
+Timid Nature
+- Calm Mind
+- Tail Glow
+- Scald
+- Ice Beam
+
+

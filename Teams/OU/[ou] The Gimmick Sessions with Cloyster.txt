@@ -1,0 +1,54 @@
+Cloyster @ White Herb
+Ability: Skill Link
+EVs: 252 Spd / 252 Atk / 4 HP
+Adamant Nature
+- Icicle Spear
+- Razor Shell
+- Rock Blast
+- Shell Smash
+
+Forretress @ Leftovers
+Ability: Sturdy
+EVs: 252 Def / 252 HP / 4 SAtk
+Bold Nature
+- Rapid Spin
+- Stealth Rock
+- Spikes
+- Volt Switch
+
+Goodra @ Weakness Policy
+Ability: Sap Sipper
+EVs: 252 SAtk / 252 HP / 4 SDef
+Modest Nature
+- Dragon Pulse
+- Flamethrower
+- Thunderbolt
+- Toxic
+
+Heatran @ Air Balloon
+Ability: Flash Fire
+EVs: 252 SDef / 252 HP / 4 Atk
+Gentle Nature
+- Earth Power
+- Stealth Rock
+- Toxic
+- Iron Head
+
+Alakazam @ Alakazite
+Ability: Magic Guard
+EVs: 252 Spd / 252 SAtk / 4 HP
+Timid Nature
+- Focus Blast
+- Psyshock
+- Shadow Ball
+- Dazzling Gleam
+
+Gastrodon @ Leftovers
+Ability: Storm Drain
+EVs: 252 Def / 252 HP / 4 SAtk
+Bold Nature
+- Earth Power
+- Ice Beam
+- Scald
+- Toxic
+
