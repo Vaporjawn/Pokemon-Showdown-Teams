@@ -1,0 +1,63 @@
+Ludicolo @ Assault Vest  
+Ability: Swift Swim  
+Level: 50  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Modest Nature  
+- Ice Beam  
+- Leaf Storm  
+- Muddy Water  
+- Fake Out  
+
+Pelipper @ Sharp Beak  
+Ability: Drizzle  
+Level: 50  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Hurricane  
+- Scald  
+- Tailwind  
+- Protect  
+
+Raichu @ Focus Sash  
+Ability: Lightning Rod  
+Level: 50  
+EVs: 252 SpA / 4 SpD / 140 Spe  
+Timid Nature  
+- Fake Out  
+- Thunder  
+- Volt Switch  
+- Encore  
+
+Dracovish @ Choice Band  
+Ability: Strong Jaw  
+Level: 50  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Leech Life  
+- Fishious Rend  
+- Crunch  
+- Rock Slide  
+
+Perrserker @ Life Orb  
+Ability: Tough Claws  
+Level: 50  
+EVs: 252 HP / 252 Atk / 4 Def  
+Brave Nature  
+IVs: 0 Spe  
+- Iron Head  
+- Play Rough  
+- Taunt  
+- Protect  
+
+Kommo-o @ Aguav Berry  
+Ability: Soundproof  
+Level: 50  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Aura Sphere  
+- Clanging Scales  
+- Clangorous Soul  
+- Protect  
+

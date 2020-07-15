@@ -1,0 +1,62 @@
+Dracozolt @ Life Orb  
+Ability: Hustle  
+Level: 50  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Bolt Beak  
+- Dragon Claw  
+- Aerial Ace  
+- Earthquake  
+
+Passimian @ Assault Vest  
+Ability: Defiant  
+Level: 50  
+EVs: 172 HP / 252 Atk / 4 Def / 12 SpD / 68 Spe  
+Adamant Nature  
+- Close Combat  
+- Iron Head  
+- Knock Off  
+- Feint  
+
+Whimsicott @ Focus Sash  
+Ability: Prankster  
+Level: 50  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Energy Ball  
+- Moonblast  
+- Tailwind  
+- Protect  
+
+Togekiss @ Babiri Berry  
+Ability: Super Luck  
+Level: 50  
+EVs: 244 HP / 44 Def / 156 SpA / 4 SpD / 60 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Dazzling Gleam  
+- Flamethrower  
+- Follow Me  
+- Yawn  
+
+Darmanitan-Galar @ Choice Scarf  
+Ability: Gorilla Tactics  
+Level: 50  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Icicle Crash  
+- Flare Blitz  
+- Earthquake  
+- Rock Slide  
+
+Duraludon @ Weakness Policy  
+Ability: Stalwart  
+Level: 50  
+EVs: 172 HP / 4 Def / 76 SpA / 4 SpD / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Flash Cannon  
+- Dark Pulse  
+- Draco Meteor  
+- Protect  

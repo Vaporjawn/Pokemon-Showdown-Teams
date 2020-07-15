@@ -1,0 +1,62 @@
+Tyranitar @ Lum Berry  
+Ability: Sand Stream  
+Level: 50  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Rock Slide  
+- Assurance  
+- Dragon Dance  
+- Protect  
+
+Excadrill @ Focus Sash  
+Ability: Sand Rush  
+Level: 50  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- High Horsepower  
+- Iron Head  
+- Rock Slide  
+- Protect  
+
+Sylveon @ Throat Spray  
+Ability: Pixilate  
+Level: 50  
+EVs: 252 HP / 252 SpA / 4 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Hyper Voice  
+- Mystical Fire  
+- Helping Hand  
+- Protect  
+
+Gastrodon-East @ Leftovers  
+Ability: Storm Drain  
+Level: 50  
+EVs: 252 HP / 36 Def / 220 SpA  
+Quiet Nature  
+IVs: 0 Atk / 0 Spe  
+- Scald  
+- Earth Power  
+- Recover  
+- Protect  
+
+Rotom-Heat @ Sitrus Berry  
+Ability: Levitate  
+Level: 50  
+EVs: 244 HP / 4 Def / 108 SpA / 4 SpD / 148 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Thunderbolt  
+- Overheat  
+- Will-O-Wisp  
+- Protect  
+
+Scrafty @ White Herb  
+Ability: Intimidate  
+Level: 50  
+EVs: 252 HP / 252 Atk / 4 SpD  
+Adamant Nature  
+- Fake Out  
+- Assurance  
+- Close Combat  
+- Protect  

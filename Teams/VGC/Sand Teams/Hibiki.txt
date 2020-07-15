@@ -1,0 +1,64 @@
+Tyranitar @ Air Balloon  
+Ability: Sand Stream  
+Level: 50  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Protect  
+- Rock Slide  
+- Crunch  
+- Fire Punch  
+
+Excadrill @ Choice Band  
+Ability: Sand Rush  
+Level: 50  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Adamant Nature  
+IVs: 0 SpA  
+- Earthquake  
+- Iron Head  
+- Rock Slide  
+- X-Scissor  
+
+Togekiss @ Sitrus Berry  
+Ability: Serene Grace  
+Level: 50  
+EVs: 236 HP / 196 Def / 4 SpA / 12 SpD / 60 Spe  
+Bold Nature  
+IVs: 8 Atk  
+- Air Slash  
+- Dazzling Gleam  
+- Life Dew  
+- Follow Me  
+
+Hitmontop (M) @ Mental Herb  
+Ability: Intimidate  
+Level: 50  
+EVs: 244 HP / 252 Atk / 4 Def / 4 SpD / 4 Spe  
+Adamant Nature  
+IVs: 20 SpA  
+- Detect  
+- Close Combat  
+- Sucker Punch  
+- Fake Out  
+
+Rotom-Heat @ Choice Specs  
+Ability: Levitate  
+Level: 50  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Overheat  
+- Discharge  
+- Volt Switch  
+- Trick  
+
+Milotic @ Leftovers  
+Ability: Competitive  
+Level: 50  
+EVs: 172 HP / 220 Def / 12 SpA / 4 SpD / 100 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Scald  
+- Icy Wind  
+- Recover  
+- Helping Hand  

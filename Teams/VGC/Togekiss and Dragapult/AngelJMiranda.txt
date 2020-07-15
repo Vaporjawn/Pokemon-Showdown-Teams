@@ -1,0 +1,60 @@
+Togekiss @ Sitrus Berry  
+Ability: Serene Grace  
+Level: 50  
+EVs: 236 HP / 228 Def / 28 SpD / 12 Spe  
+Bold Nature  
+- Air Slash  
+- Dazzling Gleam  
+- Follow Me  
+- Helping Hand  
+
+Scrafty @ Mental Herb  
+Ability: Intimidate  
+Level: 50  
+EVs: 252 HP / 108 Atk / 4 Def / 132 SpD / 12 Spe  
+Adamant Nature  
+- Detect  
+- Close Combat  
+- Crunch  
+- Fake Out  
+
+Dragapult @ Dragon Fang  
+Ability: Clear Body  
+Level: 50  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Adamant Nature  
+- Protect  
+- Dragon Claw  
+- Phantom Force  
+- Dragon Dance  
+
+Gyarados @ Choice Band  
+Ability: Moxie  
+Level: 50  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Waterfall  
+- Bounce  
+- Stone Edge  
+- Power Whip  
+
+Rotom-Heat @ Choice Specs  
+Ability: Levitate  
+Level: 50  
+EVs: 220 HP / 4 Def / 60 SpA / 4 SpD / 220 Spe  
+Timid Nature  
+- Overheat  
+- Thunderbolt  
+- Volt Switch  
+- Trick  
+
+Ferrothorn @ Leftovers  
+Ability: Iron Barbs  
+Level: 50  
+EVs: 252 HP / 252 Atk / 4 Def  
+Brave Nature  
+IVs: 0 Spe  
+- Protect  
+- Power Whip  
+- Gyro Ball  
+- Leech Seed  
