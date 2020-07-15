@@ -1,0 +1,78 @@
+Pelipper
+
+Hurricane
+Hydro Pump
+Tailwind
+U-Turn
+
+Item/Rocky Helmet
+
+Modest
+Drizzle
+4 HP / 252 SpA / 252 Spe
+
+Ludicolo
+
+Muddy Water
+Energy Ball
+Ice Beam
+Protect
+
+Item/Life Orb
+
+Modest
+Swift Swim
+4 Def / 252 SpA / 252 Spe
+
+Seismitoad
+
+Muddy Water
+Earth Power
+Stealth Rock
+Focus Blast
+
+Item/Leftovers
+
+Modest
+Swift Swim
+4 HP / 252 SpA / 252 Spe
+
+Raichu
+
+Grass Knot
+Nuzzle
+Thunder
+Focus Blast
+
+Item/Focus Sash
+
+Timid
+Lightning Rod
+4 Def / 252 SpA / 252 Spe
+
+Rotom-Heat
+
+Nasty Plot
+Overheat
+Volt Switch
+Thunder wave
+
+
+Item/ Heavy Duty Boots
+
+Timid
+Levitate
+248 HP / 8 SpA / 252 Spe
+
+Goodra
+
+Draco Meteor
+Thunderbolt
+Flamethrower
+Sludge Bomb
+
+Item/Assault Vest
+
+Modest
+Hydration
+72 HP / 8 Def / 252 SpA / 176 Spe

@@ -1,0 +1,53 @@
+Wrath (Tyranitar) @ Focus Sash
+Ability: Sand Stream
+EVs: 56 Atk / 200 SpA / 252 Spe
+Naive Nature
+- Stealth Rock
+- Fire Blast
+- Ice Beam
+- Earthquake
+
+Greed (Mew) @ Expert Belt
+Ability: Synchronize
+EVs: 52 Atk / 204 SpA / 252 Spe
+Naive Nature
+- Low Kick
+- Fire Blast
+- Ice Beam
+- Energy Ball / Thunderbolt
+
+Pride (Talonflame) @ Sharp Beak
+Ability: Gale Wings
+EVs: 88 HP / 252 Atk / 168 Spe
+Jolly Nature
+- Brave Bird
+- Flare Blitz
+- Roost
+- Swords Dance
+
+Lust (Lopunny) @ Lopunnite
+Ability: Limber
+EVs: 252 Atk / 4 SpD / 252 Spe
+Jolly Nature
+- Power-Up Punch
+- Fake Out
+- Return
+- High Jump Kick
+
+Gluttony (Gyarados) @ Lum Berry
+Ability: Intimidate
+EVs: 88 HP / 192 Atk / 4 Def / 224 Spe
+Adamant Nature
+- Dragon Dance
+- Taunt
+- Bounce
+- Waterfall
+
+Gluttony (Dragonite) @ Lum Berry
+Ability: Multiscale
+EVs: 252 Atk / 4 SpD / 252 Spe
+Adamant Nature
+- Dragon Dance
+- Outrage
+- Fire Punch
+- ExtremeSpeed

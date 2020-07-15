@@ -1,0 +1,62 @@
+Charizard @ Charizardite Y
+
+Ability: Blaze
+EVs: 252 Spd / 252 SpAtk / 4 Def
+Nature: Timid
+- Fire Blast
+- Solar Beam
+- Roost
+- Earthquake
+
+Garchomp @ Choice Scarf
+
+Ability: Rough Skin
+EVs: 4 HP / 252 Atk / 252 Spe
+Nature: Naive
+- Earthquake
+- Dragon Claw
+- Stone Edge
+- Fire Blast
+
+Scizor @ Choice Band
+
+Ability: Technician
+EVs: 248 HP / 252 Atk / 8 SpDef
+Nature: Adamant
+- Bullet Punch
+- Pursuit
+- Superpower
+- U-turn
+
+Keldeo @ Choice Specs
+
+Ability:Justifed
+EVs: 252 SpAtk / 252 Spd / 4 HP
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpAtk / 30 SpDef / 31 Spd
+Nature: Timid
+- Hydro Pump
+- Secret Sword
+- Hidden Power (Flying)
+- Icy Wind
+
+Sylveon @ Leftovers
+
+Ability: Pixilate
+EVs: 252 SpDef / 252 HP / 4 SpAtk
+Nature: Calm
+IVs: 0 Atk
+- Hyper Voice
+- Heal Bell
+- Protect
+- Wish
+
+Mandibuzz @ Leftovers
+
+Ability: Overcoat
+EVs: 248 HP / 252 Def / 8 Spd
+IVs: 0 Atk
+Nature: Bold
+- Defog
+- Taunt
+- Foul Play
+- Roost

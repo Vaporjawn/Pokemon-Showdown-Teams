@@ -1,0 +1,53 @@
+Tyranitar @ Leftovers
+EVs: 252 Hp / 252 SpD / 4 Def
+Ability: Sand Stream
+Careful Nature
+- Stealth Rock
+- Stone Edge
+- Pursuit
+- Crunch
+
+Klefki @ Light Clay
+Ability: Prankster
+EVs: 252 HP / 252 Def / 4 SpD
+Impish Nature
+- Reflect
+- Light Screen
+- Foul Play
+- Protect
+
+Aerodactyl @ Aerodactylite
+Ability: Pressure
+EVs: 252 Atk / 8 SpD / 248 Spe
+Jolly Nature
+- Earthquake
+- Stone Edge
+- Roost
+- Aerial Ace
+
+Nidoking @ Life Orb
+Ability: Sheer Force
+EVs: 4 Def / 252 SpA / 252 Spe
+Timid Nature
+- Sludge Wave
+- Earth Power
+- Ice Beam
+- Substitute
+
+Scizor @ Choice Band
+Ability: Technician
+EVs: 248 HP / 252 Atk / 8 SpD
+Adamant Nature
+- U-Turn
+- Bullet Punch
+- Pursuit
+- Superpower
+
+Skarmory @ Rocky Helmet
+Ability: Sturdy
+EVs: 252 Hp / 252 Def / 4 SpD
+Impish nature
+- Brave Bird
+- Toxic
+- Defog
+- Roost
