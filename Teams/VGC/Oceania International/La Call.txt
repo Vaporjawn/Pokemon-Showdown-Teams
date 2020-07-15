@@ -1,0 +1,58 @@
+Duraludon @ Assault Vest  
+Ability: Stalwart  
+EVs: 252 HP / 4 Def / 156 SpA / 36 SpD / 60 Spe  
+Modest Nature  
+- Flash Cannon  
+- Draco Meteor  
+- Thunderbolt  
+- Body Press  
+
+Whimsicott @ Focus Sash  
+Ability: Prankster  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Tailwind  
+- Moonblast  
+- Fake Tears  
+- Protect  
+
+Dracovish @ Choice Scarf  
+Ability: Strong Jaw  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Adamant Nature  
+- Fishious Rend  
+- Rock Slide  
+- Crunch  
+- Dragon Rush  
+
+Sylveon @ Pixie Plate  
+Ability: Pixilate  
+Level: 50  
+EVs: 100 HP / 4 Def / 156 SpA / 4 SpD / 244 Spe  
+Modest Nature  
+- Hyper Voice  
+- Yawn  
+- Quick Attack  
+- Protect  
+
+Rotom-Heat @ Sitrus Berry  
+Ability: Levitate  
+Level: 50  
+EVs: 252 HP / 4 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Thunderbolt  
+- Overheat  
+- Protect  
+- Dark Pulse  
+
+La Zio (Conkeldurr) (F) @ Flame Orb  
+Ability: Guts  
+Level: 50  
+EVs: 212 HP / 156 Atk / 4 Def / 76 SpD / 60 Spe  
+Adamant Nature  
+- Protect  
+- Drain Punch  
+- Mach Punch  
+- Ice Punch  

@@ -1,0 +1,64 @@
+Sigilyph (M) @ Focus Sash  
+Ability: Wonder Skin  
+Level: 50  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 2 Atk  
+- Psychic  
+- Gravity  
+- Hypnosis  
+- Tailwind  
+
+Excadrill @ Life Orb  
+Ability: Sand Rush  
+Level: 50  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+IVs: 2 SpA  
+- High Horsepower  
+- Iron Head  
+- X-Scissor  
+- Protect  
+
+Tyranitar @ Lum Berry  
+Ability: Sand Stream  
+Level: 50  
+EVs: 60 HP / 188 Atk / 4 Def / 4 SpD / 252 Spe  
+Adamant Nature  
+IVs: 26 SpA  
+- Rock Slide  
+- Crunch  
+- Dragon Dance  
+- Protect  
+
+Milotic @ Leftovers  
+Ability: Competitive  
+Level: 50  
+EVs: 244 HP / 172 Def / 4 SpA / 36 SpD / 52 Spe  
+Bold Nature  
+- Muddy Water  
+- Breaking Swipe  
+- Helping Hand  
+- Recover  
+
+Dragapult @ Choice Specs  
+Ability: Clear Body  
+Level: 50  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Shadow Ball  
+- Draco Meteor  
+- Thunderbolt  
+- Flamethrower  
+
+Dhelmise @ Iron Ball  
+Ability: Steelworker  
+Level: 50  
+EVs: 252 HP / 148 Atk / 108 Def  
+Brave Nature  
+IVs: 15 SpA / 0 Spe  
+- Power Whip  
+- Gyro Ball  
+- Liquidation  
+- Ally Switch  

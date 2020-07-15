@@ -1,0 +1,62 @@
+Pelipper @ Focus Sash  
+Ability: Drizzle  
+Level: 50  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Scald  
+- Hurricane  
+- Tailwind  
+- Protect  
+
+Barraskewda @ Life Orb  
+Ability: Swift Swim  
+Level: 50  
+EVs: 4 HP / 252 Atk / 4 Def / 148 SpD / 100 Spe  
+Jolly Nature  
+- Liquidation  
+- Close Combat  
+- Crunch  
+- Protect  
+
+Ludicolo @ Assault Vest  
+Ability: Swift Swim  
+Level: 50  
+EVs: 20 HP / 148 Def / 204 SpA / 4 SpD / 132 Spe  
+Modest Nature  
+- Scald  
+- Giga Drain  
+- Ice Beam  
+- Fake Out  
+
+Raichu @ Air Balloon  
+Ability: Lightning Rod  
+Level: 50  
+EVs: 12 HP / 92 Def / 220 SpA / 4 SpD / 180 Spe  
+Timid Nature  
+- Thunder  
+- Volt Switch  
+- Helping Hand  
+- Fake Out  
+
+Arcanine @ Mago Berry  
+Ability: Intimidate  
+Level: 50  
+EVs: 244 HP / 116 Atk / 4 Def / 68 SpD / 76 Spe  
+Careful Nature  
+- Flare Blitz  
+- Snarl  
+- Will-O-Wisp  
+- Protect  
+
+Ferrothorn @ Leftovers  
+Ability: Iron Barbs  
+Level: 50  
+EVs: 252 HP / 172 Atk / 84 SpD  
+Sassy Nature  
+IVs: 0 Spe  
+- Power Whip  
+- Gyro Ball  
+- Knock Off  
+- Protect  
+

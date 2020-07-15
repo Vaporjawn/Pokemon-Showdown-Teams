@@ -1,0 +1,70 @@
+Togekiss (F) @ Babiri Berry  
+Ability: Serene Grace  
+Level: 50  
+Happiness: 160  
+EVs: 244 HP / 204 Def / 4 SpA / 4 SpD / 52 Spe  
+Modest Nature  
+IVs: 4 Atk  
+- Aura Sphere  
+- Air Slash  
+- Follow Me  
+- Flamethrower  
+
+Indeedee-F (F) @ Lum Berry  
+Ability: Psychic Surge  
+Level: 50  
+EVs: 148 HP / 196 SpA / 164 Spe  
+Modest Nature  
+IVs: 18 Atk  
+- Follow Me  
+- Psychic  
+- Psychic Terrain  
+- Protect  
+
+Pikachu (M) @ Light Ball  
+Ability: Static  
+Level: 50  
+Happiness: 160  
+EVs: 20 HP / 252 Def / 204 SpA / 4 SpD / 28 Spe  
+Timid Nature  
+IVs: 30 Atk  
+- Thunder  
+- Grass Knot  
+- Surf  
+- Protect  
+
+Tyranitar (M) @ Weakness Policy  
+Ability: Sand Stream  
+Level: 50  
+Happiness: 160  
+EVs: 44 HP / 252 Atk / 212 Spe  
+Adamant Nature  
+IVs: 8 SpA  
+- Crunch  
+- Protect  
+- Rock Slide  
+- Superpower  
+
+Chandelure (F) @ Life Orb  
+Ability: Flash Fire  
+Level: 50  
+Happiness: 160  
+EVs: 156 HP / 252 SpA / 100 Spe  
+Modest Nature  
+IVs: 30 Atk  
+- Heat Wave  
+- Shadow Ball  
+- Trick Room  
+- Imprison  
+
+Excadrill (M) @ Focus Sash  
+Ability: Sand Rush  
+Level: 50  
+Happiness: 160  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Adamant Nature  
+IVs: 21 SpA  
+- High Horsepower  
+- Iron Head  
+- Rock Slide  
+- Protect  
