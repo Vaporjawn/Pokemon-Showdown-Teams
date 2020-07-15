@@ -1,0 +1,53 @@
+Sableye @ Sablenite
+Ability: Prankster
+EVs: 252 HP / 200 Def / 56 SpD
+Bold Nature
+- Calm Mind
+- Recover
+- Snarl
+- Will-O-Wisp
+
+Clefable @ Leftovers
+Ability: Unaware
+EVs: 252 HP / 252 Def / 4 SpD
+Bold Nature
+- Calm Mind
+- Moonblast
+- Flamethrower
+- Moonlight
+
+Scizor Lum Berry
+Ability: Technician
+EVs: 252 HP / 252 Att / 4 Sp Def
+Adamant Nature
+- Roost
+- Swords Dance
+- Bullet Punch
+- Defog
+
+Amoonguss @ Black Sludge
+Ability: Regenerator
+EVs: 252 HP / 128 Def / 128 SpD
+Calm Nature
+- Spore
+- Giga Drain
+- Sludge Bomb
+- Synthesis
+
+Heatran @ Choice Specs
+Ability: Flash Fire
+EVs: 252 HP / 4 SpA / 252 Spe
+Modest Nature
+- Earth Power
+- Flash Cannon
+- Lava Plume
+- Hidden Power [Ice]
+
+Excadrill @ Choice Scarf
+Ability: Mold Breaker
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+- Earthquake
+- Rock Slide
+- Facade
+- Iron Head

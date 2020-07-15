@@ -1,0 +1,56 @@
+King Suicide (Staraptor) @ Life Orb
+Trait: Reckless
+EVs: 252 Atk / 252 Spd / 4 Def
+Jolly Nature
+IVs: 29 HP
+- Brave Bird
+- Double-Edge
+- Close Combat
+- Roost
+
+King OU (Garchomp) @ Choice Scarf
+Trait: Rough Skin
+EVs: 252 Atk / 252 Spd / 4 HP
+Jolly Nature
+- Outrage
+- Dragon Claw
+- Earthquake
+- Fire Blast
+
+King Hazards (Deoxys-Defense) @ Life Orb
+Trait: Pressure
+EVs: 252 SAtk / 252 Spd / 4 SDef
+Modest Nature
+IVs: 30 Atk / 30 SAtk / 30 Spd / 29 HP
+- Psycho Boost
+- Hidden Power [Fire]
+- Stealth Rock
+- Spikes
+
+King No-Skill (Genesect) @ Choice Scarf
+Trait: Download
+EVs: 252 Spd / 252 SAtk / 4 Atk
+Naive Nature
+- Bug Buzz
+- Flamethrower
+- Ice Beam
+- U-turn
+
+King STAB (Terrakion) @ Life Orb
+Trait: Justified
+EVs: 252 Spd / 252 Atk / 4 Def
+Jolly Nature
+- Close Combat
+- Stone Edge
+- Earthquake
+- Quick Attack
+
+
+King Weather (Politoed) @ Choice Scarf
+Trait: Drizzle
+EVs: 252 SAtk / 252 Spd / 4 HP
+Timid Nature
+- Hydro Pump
+- Surf
+- Ice Beam
+- Perish Song

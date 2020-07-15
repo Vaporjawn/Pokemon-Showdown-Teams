@@ -1,0 +1,54 @@
+Gen 8 rain team
+
+Barraskewda @ Leftovers
+Ability: Swift Swim
+EVs: 252 Atk / 4 SpD / 252 Spe
+Adamant Nature
+- Close Combat
+- Liquidation
+- Drill Run
+- Poison Jab
+
+Pelipper @ Damp Rock
+Ability: Drizzle
+EVs: 248 HP / 252 Def / 8 SpA
+Bold Nature
+- Scald
+- U-turn
+- Roost
+- Hurricane
+
+Ferrothorn @ Leftovers
+Ability: Iron Barbs
+EVs: 252 HP / 4 Atk / 252 Def
+Relaxed Nature
+IVs: 0 Spe
+- Stealth Rock
+- Power Whip
+- Gyro Ball
+- Leech Seed
+
+Rotom-Wash @ Iapapa Berry
+Ability: Levitate
+EVs: 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+IVs: 0 Atk
+- Hydro Pump
+- Thunder
+- Volt Switch
+- Will-O-Wisp
+
+Corviknight @ Leftovers
+Ability: Mirror Armor
+EVs: 252 HP / 252 Atk / 4 SpA
+Brave Nature
+- Hurricane
+- U-turn
+- Defog
+- Iron Head
+
+Ditto @ Choice Scarf
+Ability: Imposter
+EVs: 252 HP / 4 Atk / 252 Def
+IVs: 0 Atk
+- Transform

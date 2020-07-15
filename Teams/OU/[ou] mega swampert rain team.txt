@@ -1,0 +1,54 @@
+Politoed @ Damp Rock
+Ability: Drizzle
+EVs: 252 HP / 4 SpA / 252 SpD
+Calm Nature
+- Scald
+- Toxic
+- Hypnosis
+- Ice Beam
+
+Galvantula @ Focus Sash
+Ability: Compound Eyes
+EVs: 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Sticky Web
+- Thunder
+- Bug Buzz
+- Volt Switch
+
+
+Scizor @ Leftovers
+Ability: Technician
+EVs: 252 HP / 4 Atk / 252 Def
+Impish Nature
+- Swords Dance
+- Bullet Punch
+- Roost
+- U-turn
+
+Ludicolo @ Life Orb
+Ability: Swift Swim
+EVs: 4 HP / 252 SpA / 252 Spe
+Modest Nature
+- Hydro Pump
+- Giga Drain
+- Ice Beam
+- Rain Dance
+
+Talonflame @ Leftovers
+Ability: Gale Wings
+EVs: 252 HP / 252 Atk / 4 SpD
+Adamant Nature
+- Brave Bird
+- Flare Blitz
+- Roost
+- Tailwind
+
+Swampert-Mega @ Swampertite
+Ability: Swift Swim
+EVs: 104 HP / 252 Atk / 152 Spe
+Adamant Nature
+- Earthquake
+- Ice Punch
+- Waterfall
+- Rain Dance

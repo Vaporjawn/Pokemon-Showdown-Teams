@@ -1,0 +1,58 @@
+Gardevoir @ Gardevoirite
+Ability: Trace
+EVs: 24 Def / 232 SpA / 252 Spe
+Timid Nature
+IVs: 0 Atk
+- Taunt
+- Hyper Voice
+- Psyshock
+- Focus Blast
+
+Heatran @ Leftovers
+Ability: Flash Fire
+EVs: 252 HP / 4 SpA / 252 SpD
+Calm Nature
+IVs: 0 Atk
+- Lava Plume
+- Stealth Rock
+- Roar
+- Protect
+
+Quagsire @ Leftovers
+Ability: Unaware
+EVs: 252 HP / 4 Atk / 252 Def
+Relaxed Nature
+- Scald
+- Toxic
+- Recover
+- Earthquake
+
+Latios (M) @ Life Orb
+Ability: Levitate
+EVs: 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+IVs: 0 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- Psychic
+- Draco Meteor
+- Hidden Power [Fighting]
+- Defog
+
+Keldeo-Resolute @ Choice Scarf
+Ability: Justified
+EVs: 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+IVs: 0 Atk
+- Scald
+- Hydro Pump
+- Secret Sword
+- Icy Wind
+
+Gliscor @ Toxic Orb
+Ability: Poison Heal
+Shiny: Yes
+EVs: 244 HP / 192 SpD / 72 Spe
+Careful Nature
+- Roost
+- Earthquake
+- Swords Dance
+- Knock Off

@@ -1,0 +1,53 @@
+Sableye @ Sablenite
+Ability: Prankster -> Magic Bounce
+EVs: 248 HP / 8 Atk / 252 SpD
+Careful Nature
+- Will-O-Wisp
+- Taunt
+- Knock Off
+- Recover
+
+Landorus-Therian (M) @ Leftovers
+Ability: Intimidate
+EVs: 248 HP / 252 Def / 8 SpD
+Impish Nature
+- Stealth Rock
+- U-turn
+- Knock Off / Stone Edge / Rock Slide
+- Earthquake
+
+Ferrothorn @ Rocky Helmet
+Ability: Iron Barbs
+EVs: 248 HP / 8 Atk / 88 Def / 164 SpD
+Careful Nature
+- Leech Seed
+- Spikes
+- Power Whip
+- Protect
+
+Clefable @ Leftovers
+Ability: Unaware
+EVs: 248 HP / 252 Def / 8 SpA
+Bold Nature
+- Moonblast
+- Wish
+- Heal Bell
+- Protect
+
+Latias (F) @ Life Orb
+Ability: Levitate
+EVs: 248 HP / 212 Def / 48 SpA
+Calm Nature
+- Draco Meteor
+- Psyshock
+- Hidden Power Fighting / Roost
+- Defog
+
+Heatran @ Air Balloon
+Ability: Flash Fire
+EVs: 248 HP / 68 SpA / 192 SpD
+Calm Nature
+- Lava Plume
+- Earth Power / Toxic
+- Flash Cannon
+- Taunt

@@ -1,0 +1,55 @@
+Hippowdon @ Leftovers
+Ability: Sand Stream
+EVs: 252 HP / 4 Def / 252 SpD
+Careful Nature
+- Crunch / Ice Fang
+- Earthquake
+- Slack Off
+- Stealth Rock
+
+Slowbro-Mega @ Slowbronite
+Ability: Regenerator
+EVs: 252 HP / 80 Def / 176 SpD
+Bold Nature
+- Scald
+- Psyshock
+- Calm Mind
+- Slack Off
+
+Latias (F) @ Life Orb
+Ability: Levitate
+EVs: 76 HP / 180 SpA / 252 Spe
+Timid Nature
+IVs: null Atk
+- Draco Meteor
+- Psyshock
+- Recover
+- Defog
+
+Bisharp @ Life Orb
+Ability: Defiant
+EVs: 252 HP / 252 Atk / 4 Def
+Adamant Nature
+- Sucker Punch
+- Knock Off
+- Low Kick
+- Iron Head
+
+Volcarona @ Lum Berry
+Ability: Flame Body
+EVs: 248 HP / 208 Def / 52 Spe
+Bold Nature
+- Quiver Dance
+- Fiery Dance
+- Giga Drain
+- Roost
+
+Kyurem-Black @ Life Orb
+Ability: Teravolt
+Shiny: Yes
+EVs: 96 Atk / 252 SpA / 160 Spe
+Rash Nature
+- Ice Beam
+- Fusion Bolt
+- Earth Power
+- Hidden Power [Fire]
