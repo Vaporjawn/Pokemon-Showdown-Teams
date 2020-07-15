@@ -1,0 +1,53 @@
+Machamp @ Leftovers
+Ability: No Guard
+EVs: 252 Atk / 252 HP / 4 SDef
+Adamant Nature
+- Bulk Up
+- Dynamic Punch
+- Stone Edge
+- Ice Punch
+
+Tyranitar @ Assault Vest
+Ability: Sand Stream
+EVs: 252 Atk / 252 HP / 4 SDef
+Adamant Nature
+- Pursuit
+- Stone Edge
+- Crunch
+- Aerial Ace
+
+Rotom-Wash @ Leftovers
+Ability: Levitate
+EVs: 252 SDef / 252 HP / 4 SAtk
+Calm Nature
+- Discharge
+- Hydro Pump
+- Volt Switch
+- Will-O-Wisp
+
+Talonflame @ Flying Gem
+Ability: Gale Wings
+EVs: 252 Spd / 252 Atk / 4 HP
+Jolly Nature
+- Acrobatics
+- Flare Blitz
+- Bulk Up
+- U-turn
+
+Genesect @ Expert Belt
+Ability: Download
+EVs: 252 Spd / 252 SAtk / 4 SDef
+Timid Nature
+- Flamethrower
+- Ice Beam
+- Thunderbolt
+- Energy Ball
+
+Forretress @ Leftovers
+Ability: Sturdy
+EVs: 252 Def / 252 HP / 4 SAtk
+Bold Nature
+- Rapid Spin
+- Stealth Rock
+- Volt Switch
+- Toxic Spikes

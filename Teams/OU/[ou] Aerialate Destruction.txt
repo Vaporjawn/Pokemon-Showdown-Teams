@@ -1,0 +1,58 @@
+Pinsir @ Pinsirite
+Ability: Moxie
+Shiny: Yes
+EVs: 252 Spd / 252 Atk / 4 Def
+Jolly Nature
+- Return
+- X-Scissor
+- Swords Dance
+- Earthquake
+
+Starmie @ Leftovers
+Ability: Analytic
+Shiny: Yes
+EVs: 252 Spd / 252 SAtk / 4 SDef
+Timid Nature
+- Surf
+- Psyshock
+- Ice Beam
+- Rapid Spin
+
+Smeargle @ Focus Sash
+Ability: Own Tempo
+Shiny: Yes
+EVs: 252 Spd / 252 HP / 4 SDef
+Timid Nature
+- Spore
+- Sticky Web
+- Stealth Rock
+- Toxic Spikes
+
+Breloom @ Choice Band
+Ability: Technician
+EVs: 252 Spd / 252 Atk / 4 HP
+Jolly Nature
+- Low Sweep
+- Mach Punch
+- Bullet Seed
+- Stone Edge
+
+Talonflame @ Flying Gem
+Ability: Gale Wings
+EVs: 252 Spd / 252 Atk / 4 SAtk
+Naive Nature
+IVs: 30 Def / 30 SAtk / 30 SDef / 30 Spd
+- Acrobatics
+- Flare Blitz
+- U-turn
+- Roost
+
+Aegislash @ Life Orb
+Ability: Stance Change
+EVs: 252 Atk / 252 HP / 4 SDef
+Adamant Nature
+- King's Shield
+- Swords Dance
+- Sacred Sword
+- Shadow Sneak
+

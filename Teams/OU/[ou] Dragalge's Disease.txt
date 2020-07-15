@@ -1,0 +1,53 @@
+Dragalge @ Poison Barb
+Ability: Adaptability
+EVs: 252 SAtk / 252 HP / 4 Atk
+Mild Nature
+- Dragon Pulse
+- Sludge Bomb
+- Hidden Power [Dark]
+- Toxic Spikes
+
+Gengar @ Choice Scarf
+Ability: Levitate
+EVs: 252 Spd / 252 SAtk / 4 HP
+Timid Nature
+- Shadow Ball
+- Thunderbolt
+- Focus Blast
+- Giga Drain
+
+Scizor @ Scizorite
+Ability: Technician
+EVs: 252 Atk / 252 HP / 4 SAtk
+Naughty Nature
+- Bug Bite
+- Bullet Punch
+- Pursuit
+- Superpower
+
+Deoxys @ Focus Sash
+Ability: Pressure
+EVs: 252 Spd / 252 Atk / 4 SAtk
+Hasty Nature
+- ExtremeSpeed
+- Psycho Boost
+- Fire Punch
+- Ice Punch
+
+Rotom-Wash @ Leftovers
+Ability: Levitate
+EVs: 252 SDef / 252 HP / 4 SAtk
+Calm Nature
+- Volt Switch
+- Will-O-Wisp
+- Hydro Pump
+- Dark Pulse
+
+Genesect @ Expert Belt
+Ability: Download
+EVs: 252 Spd / 252 SAtk / 4 SDef
+Timid Nature
+- Flamethrower
+- Ice Beam
+- Thunderbolt
+- Energy Ball

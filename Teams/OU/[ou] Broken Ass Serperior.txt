@@ -1,0 +1,54 @@
+Serperior @ Leftovers
+Ability: Contrary
+EVs: 252 Spd / 252 SAtk / 4 SDef
+Timid Nature
+- Leaf Storm
+- Hidden Power [Rock]
+- Dragon Pulse
+- Toxic
+
+Clefable @ Leftovers
+Ability: Magic Guard
+EVs: 188 Def / 148 HP / 172 SAtk
+Modest Nature
+- Flamethrower
+- Moonblast
+- Calm Mind
+- Softboiled
+
+Espeon @ Light Clay
+Ability: Magic Bounce
+EVs: 252 Spd / 252 SAtk / 4 HP
+Timid Nature
+- Reflect
+- Light Screen
+- Psyshock
+- Hidden Power [Fighting]
+
+Genesect @ Expert Belt
+Ability: Download
+EVs: 252 Spd / 252 SAtk / 4 SDef
+Timid Nature
+- Thunderbolt
+- Flamethrower
+- Energy Ball
+- Ice Beam
+
+Gengar @ Choice Scarf
+Ability: Levitate
+EVs: 252 Spd / 252 SAtk / 4 HP
+Timid Nature
+- Sludge Bomb
+- Shadow Ball
+- Thunderbolt
+- Focus Blast
+
+Talonflame @ Flying Gem
+Ability: Gale Wings
+EVs: 252 Spd / 252 Atk / 4 HP
+Jolly Nature
+- Acrobatics
+- Flare Blitz
+- U-turn
+- Toxic
+
