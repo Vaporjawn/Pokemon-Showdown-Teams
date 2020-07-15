@@ -1,0 +1,54 @@
+Lucario @ Lucarionite
+Ability: Justified
+EVs: 252 Spd / 252 Atk / 4 SDef
+Jolly Nature
+- Swords Dance
+- Close Combat
+- Bullet Punch
+- Crunch
+
+Rotom-Wash @ Assault Vest
+Ability: Levitate
+EVs: 252 SAtk / 4 HP / 252 SDef
+Modest Nature
+- Shadow Ball
+- Hydro Pump
+- Volt Switch
+- Hidden Power [Fire]
+
+Malamar @ Expert Belt
+Ability: Contrary
+EVs: 252 Atk / 252 HP / 4 SAtk
+Naughty Nature
+- Night Slash
+- Superpower
+- Psycho Cut
+- Flamethrower
+
+Talonflame @ Flying Gem
+Ability: Gale Wings
+EVs: 252 Spd / 252 Atk / 4 HP
+Jolly Nature
+- Acrobatics
+- Flare Blitz
+- U-turn
+- Bulk Up
+
+Gyarados @ Leftovers
+Ability: Moxie
+EVs: 252 Atk / 252 HP / 4 SDef
+Adamant Nature
+- Bounce
+- Earthquake
+- Ice Fang
+- Waterfall
+
+Genesect @ Expert Belt
+Ability: Download
+EVs: 252 Spd / 252 SAtk / 4 SDef
+Timid Nature
+- Flamethrower
+- Ice Beam
+- Thunderbolt
+- Energy Ball
+
