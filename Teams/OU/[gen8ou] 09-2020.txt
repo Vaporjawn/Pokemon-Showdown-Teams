@@ -1,0 +1,11 @@
+Dragapult @ Focus Sash Ability: Infiltrator EVs: 252 Atk / 4 SpA / 252 Spe Hasty Nature - U-turn - Dragon Darts - Flamethrower - Shadow Ball
+
+Klefki @ Light Clay Ability: Prankster EVs: 252 HP / 4 Atk / 252 Def Impish Nature IVs: 0 Atk - Spikes - Thunder Wave - Reflect - Dazzling Gleam
+
+Volcarona @ Heavy-Duty Boots Ability: Flame Body EVs: 252 SpA / 4 SpD / 252 Spe Hasty Nature IVs: 0 Atk - Fiery Dance - Quiver Dance - Bug Buzz - Psychic
+
+Clefable @ Leftovers Ability: Magic Guard EVs: 252 HP / 4 SpA / 252 SpD Calm Nature IVs: 0 Atk - Toxic - Calm Mind - Moonblast - Soft-Boiled
+
+Corviknight @ Rocky Helmet Ability: Mirror Armor EVs: 248 HP / 8 Atk / 252 Def Impish Nature - Body Press - Iron Head - Roost - Defog
+
+Ferrothorn @ Rocky Helmet Ability: Iron Barbs EVs: 4 HP / 252 Def / 252 SpD Sassy Nature IVs: 0 Spe - Gyro Ball - Leech Seed - Protect - Toxic
